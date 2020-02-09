@@ -1,0 +1,16 @@
+C:\ПОИС-16\MS\MS\bin\Debug\MS.exe
+C:\ПОИС-16\MS\MS\bin\Debug\MS.pdb
+C:\ПОИС-16\MS\MS\obj\x86\Debug\MS.Form1.resources
+C:\ПОИС-16\MS\MS\obj\x86\Debug\MS.Properties.Resources.resources
+C:\ПОИС-16\MS\MS\obj\x86\Debug\MS.csproj.GenerateResource.cache
+C:\ПОИС-16\MS\MS\obj\x86\Debug\MS.exe
+C:\ПОИС-16\MS\MS\obj\x86\Debug\MS.pdb
+c:\ПОИС-16\MS\MS\obj\x86\Debug\MS.csprojAssemblyReference.cache
+G:\ПОИС-16\MS\MS\bin\Debug\MS.exe
+G:\ПОИС-16\MS\MS\bin\Debug\MS.pdb
+G:\ПОИС-16\MS\MS\obj\x86\Debug\MS.csprojAssemblyReference.cache
+G:\ПОИС-16\MS\MS\obj\x86\Debug\MS.Form1.resources
+G:\ПОИС-16\MS\MS\obj\x86\Debug\MS.Properties.Resources.resources
+G:\ПОИС-16\MS\MS\obj\x86\Debug\MS.csproj.GenerateResource.cache
+G:\ПОИС-16\MS\MS\obj\x86\Debug\MS.exe
+G:\ПОИС-16\MS\MS\obj\x86\Debug\MS.pdb
